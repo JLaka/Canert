@@ -1,0 +1,57 @@
+<manifest alg="2" build="232" opt="false" iceEnabled="true">
+  <folder name="css">
+    <file name="site_global.css" crc="397963719"/>
+    <file name="master_a-wzorcowa.css" crc="4137645598" ref="index"/>
+    <file name="index.css" crc="3893192003" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="4291592202" ref="index"/>
+    <file name="webpro.js" crc="3903299128" ref="index"/>
+    <file name="musewpslideshow.js" crc="138381373" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="4250894771" ref="index"/>
+    <file name="touchswipe.js" crc="4156838003" ref="index"/>
+    <file name="jquery.watch.js" crc="4068933136" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="001_.jpg" crc="4091835858" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="1_arch dziadek antoni074_.jpg" crc="45389915" ref="index"/>
+    <file name="2arch dziadek antoni074_1.jpg" crc="4039603555" ref="index"/>
+    <file name="003_.jpg" crc="3937286298" ref="index"/>
+    <file name="3arch dziadek antoni074_1.jpg" crc="3857295485" ref="index"/>
+    <file name="4arch dziadek antoni074_1.jpg" crc="489403592" ref="index"/>
+    <file name="arch dziadek antoni074_1.jpg" crc="308862132" ref="index"/>
+    <file name="nowy-001_.jpg" crc="480681913" ref="index"/>
+    <file name="nowy-002_.jpg" crc="4064897471" ref="index"/>
+    <file name="nowy-2_1.jpg" crc="167350076" ref="index"/>
+    <file name="nowy-003_.jpg" crc="331039211" ref="index"/>
+    <file name="nowy-3_1.jpg" crc="11721528" ref="index"/>
+    <file name="nowy-004_.jpg" crc="241355802" ref="index"/>
+    <file name="nowy-4_1.jpg" crc="3849523706" ref="index"/>
+    <file name="nowy-005_.jpg" crc="167817596" ref="index"/>
+    <file name="nowy-5_1.jpg" crc="3998927045" ref="index"/>
+    <file name="nowy-006_.jpg" crc="423228604" ref="index"/>
+    <file name="nowy-6_1.jpg" crc="194306051" ref="index"/>
+    <file name="nowy-007_.jpg" crc="226614809" ref="index"/>
+    <file name="nowy-7_1.jpg" crc="172460892" ref="index"/>
+    <file name="nowy-008_.jpg" crc="4268836946" ref="index"/>
+    <file name="nowy-8_1.jpg" crc="3874808018" ref="index"/>
+    <file name="nowy-009_.jpg" crc="4068745369" ref="index"/>
+    <file name="nowy-9_1.jpg" crc="3856228563" ref="index"/>
+    <file name="nowy-010_.jpg" crc="4256856382" ref="index"/>
+    <file name="nowy-10_1.jpg" crc="4051304357" ref="index"/>
+    <file name="nowy-11_1.jpg" crc="487665091" ref="index"/>
+    <file name="nowy-13_1.jpg" crc="369873712" ref="index"/>
+    <file name="nowy-018_.jpg" crc="3993722324" ref="index"/>
+    <file name="nowy-019_.jpg" crc="526981792" ref="index"/>
+    <file name="nowy-020_.jpg" crc="521218958" ref="index"/>
+    <file name="nowy-021_.jpg" crc="4124880699" ref="index"/>
+    <file name="nowy-022_.jpg" crc="37758986" ref="index"/>
+    <file name="nowy-023_.jpg" crc="315215991" ref="index"/>
+    <file name="wstęp str-038_.jpg" crc="4170863141" ref="index"/>
+    <file name="wstęp str-039_.jpg" crc="486936211" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+  </folder>
+  <file name="index.html" crc="4269573460" mt="1590347055564" redirect="true"/>
+</manifest>
